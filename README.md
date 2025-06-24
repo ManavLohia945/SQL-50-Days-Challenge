@@ -216,4 +216,5 @@ ORDER BY order_percent_per_hr DESC;
 ---
 
 **Prepared by:** Manav Lohia
+---
 **Project:** SQL 50-Day Interview Question Challenge
