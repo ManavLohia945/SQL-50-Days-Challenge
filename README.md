@@ -134,7 +134,7 @@ HAVING COUNT(DISTINCT supplier_name) = 2;
 ```
 
 ### 5️⃣ Amazon Data Analyst Interview Question
-**Q5. Identify returning active users (Amazon)**
+**Identify returning active users (Amazon)**
 
 ```sql
 -- Setup and Insert Data for amazon_transactions
@@ -157,7 +157,7 @@ WHERE difference <= 7 AND difference IS NOT NULL;
 ```
 
 ### 6️⃣ Netflix Business Analyst Interview Question
-**Q6. Unique users who flagged each video**
+**Unique users who flagged each video**
 
 ```sql
 -- Setup and Insert Data for user_flags
@@ -198,7 +198,7 @@ JOIN CTE3 ON CTE2.customer_id = CTE3.customer_id;
 ```
 
 ### 8️⃣ Swiggy Business Analyst Interview Question
-**Q8. Order pattern by hour with % contribution**
+**Order pattern by hour with % contribution**
 
 ```sql
 -- Setup and Insert Data for order_data
