@@ -1,4 +1,4 @@
-![7FireGIF](https://github.com/user-attachments/assets/16ccd3e9-0f56-4b77-8d0c-5672e6fa1470)# SQL Interview Question Solve Challenge
+# SQL Interview Question Solve Challenge
 
 Welcome to the SQL Interview Question Solve Challenge repository! In this repository, you'll find solutions to common SQL interview questions tailored for Data Analysts and Business Analysts. This repository is part of our YouTube series where we tackle one SQL interview question per day for 50 days.
 
