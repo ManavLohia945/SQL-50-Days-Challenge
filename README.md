@@ -1,10 +1,10 @@
 # SQL Interview Question Solve Challenge
 
-Welcome to the SQL Interview Question Solve Challenge repository! In this repository, you'll find solutions to common SQL interview questions tailored for Data Analysts and Business Analysts. This repository is part of our YouTube series where we tackle one SQL interview question per day for 50 days.
+Welcome to the SQL Interview Question Solve Challenge repository! In this repository, you'll find solutions to common SQL interview questions tailored for Data Analysts and Business Analysts.
 
 ## About the Series
 
-Each day, we'll solve a different SQL interview question commonly asked by top tech companies like Amazon, Google, Facebook, and more. Our goal is to help aspiring data analysts and business analysts prepare for their interviews by providing detailed explanations and solutions to these questions.
+Each day, we'll solve a different SQL interview question commonly asked by top tech companies like Amazon, Google, Facebook, and more. My goal is to help aspiring data analysts and business analysts prepare for their interviews by providing detailed explanations and solutions to these questions.
 
 ## Getting Started
 
